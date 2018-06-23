@@ -1,4 +1,4 @@
-package es.fjqueal;
+package es.fjqueal.srv;
 
 import java.util.HashSet;
 import java.util.Set;
